@@ -1,0 +1,25 @@
+{
+  "name": "x.e.o-bot",
+  "version": "1.0.0",
+  "description": "2026 bug bot",
+  "keywords": [
+    "bot",
+    "bug",
+    "whatsapp"
+  ],
+  "license": "MIT",
+  "author": "lasith ruwantha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "axios": "^1.18.0",
+    "fs": "^0.0.1-security",
+    "long": "^5.3.2",
+    "path": "^0.12.7",
+    "pino": "^10.3.1"
+  }
+}
