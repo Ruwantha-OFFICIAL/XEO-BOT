@@ -129,7 +129,7 @@ node index.js
 
 ---
 
-🔧 Configuration
+## 🔧 Configuration
 
 config.js Structure
 
