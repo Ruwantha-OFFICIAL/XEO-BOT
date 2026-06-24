@@ -76,6 +76,7 @@ async function Ruwantha() {
       const shouldReconnect = lastDisconnect?.error?.output?.statusCode !== DisconnectReason.loggedOut;
       console.log(`Connection closed: ${lastDisconnect?.error}`);
       if (shouldReconnect) {
+        xeo.end();
         setTimeout(Ruwantha, 4000);
       }
     }else if(connection === "open"){
