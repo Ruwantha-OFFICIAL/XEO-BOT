@@ -1,7 +1,7 @@
 # 🤖 XEO Bot - Advanced WhatsApp Automation Bot
 
 [![Node.js Version](https://img.shields.io/badge/Node.js-22%2B-green.svg)](https://nodejs.org/)
-[![GitHub version](https://img.shields.io/badge/version-1.0V-blue.svg)](https://github.com/yourusername/XEO-BOT)
+[![GitHub version](https://img.shields.io/badge/version-1.0.1V-blue.svg)](https://github.com/yourusername/XEO-BOT)
 [![GitHub forks](https://img.shields.io/github/forks/Ruwantha-OFFICIAL/XEO-BOT.svg)](https://github.com/yourusername/XEO-BOT/network)
 [![GitHub stars](https://img.shields.io/github/stars/Ruwantha-OFFICIAL/XEO-BOT.svg)](https://github.com/Ruwantha-OFFICIAL/XEO-BOT/stargazers)
 [![GitHub followers](https://img.shields.io/github/followers/Ruwantha-OFFICIAL.svg)](https://github.com/Ruwantha-OFFICIAL)
