@@ -51,6 +51,16 @@ async function command(msg,text,xeo) {
         await reply(`💢 ${endTime - startTime}ms`)
         break;
       }
+      case 'system':{
+        const {platform} = require('os')
+        const used = process.memoryUsage().heapUsed / 1024 / 1024;
+        await humen();
+        await reply(`
+*RAM USAGE:* ${used.toFixed(2)}mb
+*PLATFROM:* ${platform().toUpperCase()}
+        `);
+        break;
+      }
       default:{
         console.log("Is Not Avibale Command")
         break;
